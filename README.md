@@ -1,22 +1,19 @@
-Portfolio Website
+# Portfolio Website
 
-This is a personal portfolio website showcasing my work, skills, and experience. It is built with HTML, CSS, and JavaScript to provide a responsive and engaging interface.
+This is a personal portfolio website showcasing my work, skills, and experience. It is built with HTML, CSS, and JavaScript (or your chosen framework) to provide a responsive and engaging interface.
 
-Features:
+## Features
 
-Home Page: Introduction and welcome message.
+- *Home Page*: Introduction and welcome message.
+- *About Section*: Brief bio, skills.
+- *Portfolio Section*: Projects with descriptions, images, and links to live demos.
+- *Contact Section*: Contact form and links to social media profiles.
 
-About Section: Brief bio,Skills.
+## Technologies Used
 
-Portfolio Section: Projects with images, and links to live demos.
+- *Frontend*: HTML, CSS, JavaScript.
+- *Styling*: CSS.
+- *Form Handling*: Firebase.
 
-Contact Section: Contact form and links to social media profiles.
+## Installation
 
-
-Technologies Used:
-
-Frontend: HTML, CSS, JavaScript.
-
-Styling: CSS.
-
-Database:Firebase.
