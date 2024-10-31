@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+    rel="stylesheet">
+  <title>Responsive Portfolio</title>
+  <link rel="icon" href="top-view-desk-dark-concept-with-copy-space.jpg">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body style="background-color: rgb(38, 35, 35);">
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#"><span>ASHIK</span> AHAMED</a></li>
+        <li onclick="exit()" class="a" style="color:white;"><a style="color:white;"><svg xmlns="http://www.w3.org/2000/svg" height="24px"
+              viewBox="0 -960 960 960" width="24px" fill="#5f6368">
+              <path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z" />
+            </svg></a></li>
+        <li class="menu"><a href="#home">Home</a></li>
+        <li class="menu"><a href="#about">About</a></li>
+        <li class="menu"><a href="#Skills">Skills</a></li>
+        <li class="menu"><a href="#contact">Contact</a></li>
+      </ul>
+      <ul class="slidebar">
+        <li onclick="show()"><a><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960"
+              width="24px" fill="#5f6368" >
+              <path d="M120-240v-80h720v80H120Zm0-200v-80h720v80H120Zm0-200v-80h720v80H120Z" />
+            </svg></a></li>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#Skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section id="home">
+    <div class="content">
+      <P class="textcontent">Hello I'm <span>J.ASHIK AHAMED</span></P>
+      <p class="textcontent">a <span>Frontend Developer</span></p>
+    </div>
+    </div>
+    <div class="btn1">
+      <button><a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:78932603-693d-4875-bf99-c24f5d8b7226" download>Resume</a></button>
+      <button><a href="#project">Projects</a></button>
+    </div>
+  </section>
+  <!-- about section -->
+  <section id="about">
+    <div class="content1">
+      <h1 class="head">About</h1>
+      <p class="aboutcontent">Passionate about Creating User-Centric Experiences 🌟
+        With a strong foundation in HTML, CSS, and JavaScript,
+        I specialize in building responsive and visually engaging web applications.
+        My focus is on translating design concepts into functional,
+        user-friendly interfaces that enhance the overall user experience.</p>
+    </div>
+    <div class="img">
+
+    </div>
+  </section>
+
+  <!-- Skills section -->
+
+  <section id="Skills">
+    <div class="container">
+      <h1>My Skills</h1>
+      <div class="row">
+        <div class="col1">
+        </div>
+        <div class="col2">
+        </div>
+        <div class="col3">
+        </div>
+        <div class="col4">
+        </div>
+      </div>
+    </div>
+    </div>
+  </section>
+
+  <!-- projects -->
+
+  <section id="project">
+    <div class="container">
+      <h1 style="border-bottom:2px solid red;">My Project</h1>
+      <div class="row">
+        <div class="colpro1">
+          <a href="https://bmi-60031881082.development.catalystserverless.in/app/bmi.html" class="link">Bmi
+            Calculator</a>
+        </div>
+        <div class="col2pro2">
+          <a href="https://weatherapp-60031881082.development.catalystserverless.in/app/index.html" class="link">Weather Dashboard
+          </a>
+        </div>
+        <div class="col3pro3">
+          <a href="#" class="link">Booksky</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="contact">
+    <div class="contact-box">
+      <form  action="" id="contactForm">
+        <p style="color:white">Contact Me</p>
+        <label>Name</label>
+        <input type="text" id="name" placeholder="Enter your Name" required><br>
+        <label>Email-id</label>
+        <input type="text" id="email" placeholder="Enter your Email" required><br>
+        <label>Message</label>
+        <textarea type="bio" id="message" placeholder="Message" required></textarea>
+        <input style="background-color:rgb(228, 25, 25)" type="submit" value="submit">
+        <div class="alert">Your message sent successfully</div>
+      </form>
+    </div>
+  </section>
+  <footer id="footer">
+    <div class="icons">
+      <a href="https://www.linkedin.com/in/j-ashik-ahamed-7073a9283/"><p><i class="fa-brands fa-linkedin"></i>Linkedin</p></a>
+      <a href="https://github.com/ashikahamed221"><p><i class="fa-brands fa-github"></i>GitHub</p></a>
+      <a><p><i class="fa-solid fa-envelope"></i>ashikahamed<br>2217@gmail.com</p></a>
+      <a><p><i class="fa-solid fa-phone"></i>+91 9094443206</p></a>
+    </div>
+    <div class="detail">
+    <ul>
+       <li><a href="#home">Home</a></li>
+       <li><a href="#about">About</a></li>
+       <li><a href="#Skills">Skills</a></li>
+       <li><a href="#contact">Contact</a></li>
+       <li><a href="#project">Projects</a></li>
+    </ul>
+    </div>
+  </footer>
+  <div class="footerbottom">
+    &copy 2024 rights reserved | created by <i><span>J.ASHIK AHAMED</span></i>
+  </div>
+  <script src="script.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/firebase/7.14.1-0/firebase.js"></script>
+  <script src="contact.js">  </script>
+</body>
+
+</html>
