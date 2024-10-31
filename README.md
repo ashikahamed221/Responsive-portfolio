@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This is a personal portfolio website showcasing my work, skills, and experience. It is built with HTML, CSS, and JavaScript (or your chosen framework) to provide a responsive and engaging interface.
+This is a personal portfolio website showcasing my work, skills, and experience. It is built with HTML, CSS, and JavaScript to provide a responsive and engaging interface.
 
 ## Features
 
@@ -15,5 +15,9 @@ This is a personal portfolio website showcasing my work, skills, and experience.
 - *Styling*: CSS.
 - *Form Handling*: Firebase.
 
-## Installation
+## project 
+
+  - *Bmi Calculator*: To Check your body Weight.
+  - *Weather Dashboard*: To check Real Time Weather.
+  - *booksky*: Create your Own book.
 
