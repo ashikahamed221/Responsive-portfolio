@@ -13,13 +13,13 @@ This is a personal portfolio website showcasing my work, skills, and experience.
 
 - *Frontend*: HTML, CSS, JavaScript.
 - *Styling*: CSS.
-- *Form Handling*: Firebase.
+- *Form Handling*: Firebase Database.
 
 ## project 
 
-  - *Bmi Calculator*: To Check your body Weight.
-  - *Weather Dashboard*: To check Real Time Weather.
-  - *booksky*: Create your Own book.
+- *Bmi Calculator*: To Check your body Weight.
+- *Weather Dashboard*: To check Real Time Weather.
+- *booksky*: Create your Own book.
 
 ## Output
 
