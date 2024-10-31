@@ -1,8 +1,8 @@
-##Name : J.ASHIK AHAMED
-##Company : CODTECH IT SOLUTIONS
-##ID : CT08DS9060
-##Domain : Frontend web Development
-##Duration : Oct to Nov 2024
+## Name : J.ASHIK AHAMED.
+## Company : CODTECH IT SOLUTIONS
+## ID : CT08DS9060
+## Domain : Frontend web Development
+## Duration : Oct to Nov 2024
 
 # Portfolio Website
 
