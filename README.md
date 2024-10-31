@@ -21,3 +21,7 @@ This is a personal portfolio website showcasing my work, skills, and experience.
   - *Weather Dashboard*: To check Real Time Weather.
   - *booksky*: Create your Own book.
 
+## Output
+
+  ![Screenshot 2024-10-31 145957](https://github.com/user-attachments/assets/cbdedb3f-fa53-43cc-8b79-a33c530b5372)
+
