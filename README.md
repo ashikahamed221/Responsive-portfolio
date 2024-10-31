@@ -1,3 +1,9 @@
+##Name : J.ASHIK AHAMED
+##Company : CODTECH IT SOLUTIONS
+##ID : CT08DS9060
+##Domain : Frontend web Development
+##Duration : Oct to Nov 2024
+
 # Portfolio Website
 
 This is a personal portfolio website showcasing my work, skills, and experience. It is built with HTML, CSS, and JavaScript to provide a responsive and engaging interface.
