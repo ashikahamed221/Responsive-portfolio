@@ -1,12 +1,4 @@
-const firebaseConfig = {
-    apiKey: "AIzaSyARpJvJT5ski6-rZwH_esAmsDk59Bld91g",
-    authDomain: "contactform-7217a.firebaseapp.com",
-    databaseURL: "https://contactform-7217a-default-rtdb.firebaseio.com",
-    projectId: "contactform-7217a",
-    storageBucket: "contactform-7217a.appspot.com",
-    messagingSenderId: "934852611998",
-    appId: "1:934852611998:web:d8d4805c71cfe5a26b508f"
-  };
+
   //initialize
   firebase.initializeApp(firebaseConfig);
 
